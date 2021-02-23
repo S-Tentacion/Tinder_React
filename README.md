@@ -2,7 +2,6 @@
 Live on - https://determined-archimedes-634656.netlify.app
 <h3>INTRODUCTION</h3>
 <p>Tinder is a dating site where people can see different persons  profiles , can do chat with each other.</p>
-<br>
 <h3>TECHNOLOGIES</h3>
 <ul>
   <li>REACT JS</li>
