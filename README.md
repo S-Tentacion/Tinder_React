@@ -1,19 +1,33 @@
 # Tinder
+>Tinder is an geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. Once two users have "matched", they can exchange messages.
+
 Live on - https://determined-archimedes-634656.netlify.app
-<h3>INTRODUCTION</h3>
-<p>Tinder is a dating site where people can see different persons  profiles , can do chat with each other.</p>
-<h3>TECHNOLOGIES</h3>
-<ul>
-  <li>REACT JS</li>
-  <li>JAVASCRIPT</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
-<h3>SETUP</h3>
-<p>To install my project you can clone my repo the run command -> npm i to install dependencies and enjoy the code.</p>
-<h3>FEATURES</h3>
-<ul>
-  <li>This is a UI only to show my knowledge </li>
-</ul>
-<h3>STATUS</h3>
-<p>Project is: Completed</p>
+
+## Technologies
+* React
+* Java Script
+* Bootstrap
+
+## Setup
+1. Clone the project
+2. Install all the required dependencies
+3. Start the Server: Default port: 3000
+
+## Features
+List of features ready and TODOs for future development
+*  User friendly task management
+*  Swipe
+*  Match
+*  Chat
+*  Super Like
+*  Unlimited right swipes
+*  Store persistent data
+
+## Status
+Minor project: Completed
+
+## Contact
+Shubham- Software Developer Engineer
+<br/>
+<br/>
+shubham782000@gmail.com>
